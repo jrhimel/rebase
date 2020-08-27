@@ -1,0 +1,20 @@
+[
+ {
+   "repository": "CorvusRom-Devices/device_xiaomi_santoni",
+   "target_path": "device/xiaomi/santoni",
+   "branch": "10",
+   "remote": "github"
+ },
+ {
+   "repository": "jrhimel/viper-kernel",
+   "target_path": "kernel/xiaomi/msm8937",
+   "branch": "master",
+   "remote": "github"
+ },
+ {
+   "repository": "jrhimel/vendor_santoni_new",
+   "target_path": "vendor/xiaomi",
+   "branch": "quartz",
+   "remote": "github"
+ }
+]
