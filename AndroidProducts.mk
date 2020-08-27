@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/du_santoni.mk
+    $(LOCAL_DIR)/rr_santoni.mk
 
 COMMON_LUNCH_CHOICES := \
-    du_santoni-userdebug \
-    du_santoni-user \
-    du_santoni-eng
+    rr_santoni-userdebug \
+    rr_santoni-user \
+    rr_santoni-eng
