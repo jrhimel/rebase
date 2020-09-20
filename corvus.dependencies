@@ -6,15 +6,15 @@
    "remote": "github"
  },
  {
-   "repository": "jrhimel/viper-kernel",
+   "repository": "Dhruvgera/RockstarKernel_r4x",
    "target_path": "kernel/xiaomi/msm8937",
    "branch": "master",
    "remote": "github"
  },
  {
-   "repository": "jrhimel/vendor_santoni_new",
+   "repository": "jrhimel/Vendor-Corvus",
    "target_path": "vendor/xiaomi",
-   "branch": "quartz",
+   "branch": "du",
    "remote": "github"
  }
 ]
